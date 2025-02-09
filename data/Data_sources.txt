@@ -1,0 +1,14 @@
+State Population, area (manually curated):
+https://www.statistikportal.de/de/bevoelkerung/flaeche-und-bevoelkerung
+
+City-state flags:
+https://de.wikipedia.org/wiki/Landeswappen_Hamburgs#/media/Datei:Flag_of_Hamburg.svg
+https://en.wikipedia.org/wiki/Flag_of_Berlin#/media/File:Flag_of_Berlin.svg
+https://de.wikipedia.org/wiki/Flagge_Bremens#/media/Datei:Flag_of_Bremen.svg
+
+Shape files (accessed 01.01.2024):
+https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete/verwaltungsgebiete-1-250-000-stand-01-01-vg250-01-01.html (Stand: 01.01., Georeferenzierung: UTM32s, Format: shape Inhalt: Ebenen (ZIP, 67 MB))
+
+District Population, Area, State, etc:
+https://de.wikipedia.org/wiki/Liste_der_Landkreise_in_Deutschland
+https://de.wikipedia.org/wiki/Liste_der_kreisfreien_St%C3%A4dte_in_Deutschland

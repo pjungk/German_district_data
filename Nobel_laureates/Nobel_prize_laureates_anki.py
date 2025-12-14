@@ -286,15 +286,13 @@ for col in [c for c in df_all.columns if 'Flag_URL_' in c]:
 for url, local_path in flag_downloads:
     download_image(url, local_path)
 
-
-# Save
-df_all.to_csv("nobel_laureates_combined.csv", index=False)
-
+# Clean Rationale column including ” and “
+df_all["Rationale"] = df_all["Rationale"].str.replace('"', '', regex=True).str.replace("'", "", regex=True).str.replace("“", "", regex=True).str.replace("”", "", regex=True)
 
 anki_df = df_all[["Prize_Type", "Year", "Laureate", "Laureate_img", "Rationale", "Birth_Year", "Death_Year"] + [c for c in df_all. columns if 'Nationality' in c]]
 for col in anki_df.columns:
     if 'img' in col:
-        anki_df[col] = anki_df[col].str.split('/').str[-1]
-anki_df.to_csv("nobel_laureates_anki.csv", index=False)
+        anki_df[col] = anki_df[col].apply(lambda x: f'<img src="{os.path.basename(x)}">' if pd.notna(x) else '')
+anki_df.to_csv("nobel_laureates_anki.csv", index=False, header=False)
 
 print("Saved results!")

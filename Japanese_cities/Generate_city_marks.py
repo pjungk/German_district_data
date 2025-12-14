@@ -242,7 +242,7 @@ def make_safe_basename(name:  str) -> str:
 
 ### Generate zoomed maps for each city
 print("\n=== Generating individual city maps ===")
-buffer_distance = 400 * 1000  # 400 km in meters
+buffer_distance = 300 * 1000  # 300 km in meters
 cities_df['map_zoomed'] = ''
 
 for idx, row in cities_df.iterrows():
@@ -285,7 +285,7 @@ for idx, row in cities_df.iterrows():
 
         ax.set_axis_off()
         plt.tight_layout()
-        plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='white')
+        plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='none')
         plt.close(fig)
         print(f"✅ {idx+1}/{len(cities_df)}: {city_name} - Map saved to {output_path}")
     else:
@@ -298,13 +298,13 @@ for idx, row in cities_df.iterrows():
 anki_df = pd.DataFrame({
     'Kanji': cities_df['kanji'],
     'Reading': cities_df['reading'].fillna(''),
-    'Audio': cities_df['audio_filename'].fillna(''),
+    'Audio': cities_df['audio_filename'].apply(lambda x: f'[sound:{x}]' if x else ''),
     'Rank according to residents': cities_df['rank'].fillna(''),
     'Population_(2020)': cities_df['population'].fillna(''),
     'Prefecture': cities_df['prefecture'].fillna(''),
-    'Map': cities_df['map_filename'].apply(lambda x: os.path.basename(x) if x else ''),
-    'Map_zoomed': cities_df['map_zoomed'],
-    'Map_empty': cities_df['map_empty_filename'].apply(lambda x: os.path.basename(x) if x else '')
+    'Map': cities_df['map_filename'].apply(lambda x: f'<img src="{os.path.basename(x)}">' if x else ''),
+    'Map_zoomed': cities_df['map_zoomed'].apply(lambda x: f'<img src="{x}">' if x else ''),
+    'Map_empty': cities_df['map_empty_filename'].apply(lambda x: f'<img src="{os.path.basename(x)}">' if x else '')
 })
 
 anki_df['__rank_num'] = pd.to_numeric(anki_df['Rank according to residents'], errors='coerce').fillna(10**9).astype(int)
@@ -312,5 +312,5 @@ anki_df = anki_df.sort_values('__rank_num').drop(columns='__rank_num').reset_ind
 anki_df.loc[anki_df["Kanji"] == "八尾", "Audio"] = "howtopronounce_八尾.mp3"
 
 anki_import_path = 'anki_import.tsv'
-anki_df.to_csv(anki_import_path, sep='\t', index=False, encoding='utf-8')
+anki_df.to_csv(anki_import_path, sep='\t', index=False, encoding='utf-8', header=False)
 print(f"\n✨ All done! Generated maps in '{output_folder}/' folder and Anki TSV '{anki_import_path}'")

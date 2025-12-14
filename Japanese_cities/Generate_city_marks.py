@@ -311,6 +311,6 @@ anki_df['__rank_num'] = pd.to_numeric(anki_df['Rank according to residents'], er
 anki_df = anki_df.sort_values('__rank_num').drop(columns='__rank_num').reset_index(drop=True)
 anki_df.loc[anki_df["Kanji"] == "八尾", "Audio"] = "howtopronounce_八尾.mp3"
 
-anki_import_path = 'anki_import.tsv'
+anki_import_path = 'Japanese_cities_anki_import.tsv'
 anki_df.to_csv(anki_import_path, sep='\t', index=False, encoding='utf-8', header=False)
 print(f"\n✨ All done! Generated maps in '{output_folder}/' folder and Anki TSV '{anki_import_path}'")

@@ -293,6 +293,6 @@ anki_df = df_all[["Prize_Type", "Year", "Laureate", "Laureate_img", "Rationale",
 for col in anki_df.columns:
     if 'img' in col:
         anki_df[col] = anki_df[col].apply(lambda x: f'<img src="{os.path.basename(x)}">' if pd.notna(x) else '')
-anki_df.to_csv("nobel_laureates_anki.csv", index=False, header=False)
+anki_df.to_csv("Nobel_laureates_anki_import.tsv", sep='\t', index=False, header=False)
 
 print("Saved results!")

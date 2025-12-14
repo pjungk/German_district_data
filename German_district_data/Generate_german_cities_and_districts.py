@@ -14,6 +14,13 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import urllib.parse
 
+headers = {
+    "User-Agent": (
+        "NobelDataCollector/1.0 (https://example.com/contact) "
+        "Python-Requests"
+    )
+}
+
 abs_path = os.getcwd()
 
 # Define the replacements for URL encoding
@@ -103,7 +110,7 @@ def clean_image_name(img_name):
 district_url = "https://de.wikipedia.org/wiki/Liste_der_Landkreise_in_Deutschland"
 
 ### Download and format DISTRICT data from Wikipedia
-response = requests.get(district_url)
+response = requests.get(district_url, headers=headers)
 soup = BeautifulSoup(response.text, 'html.parser')
 
 tables = pd.read_html(response.text)
@@ -199,7 +206,7 @@ for i in range(df_districts.shape[0]):
 city_url = "https://de.wikipedia.org/wiki/Liste_der_kreisfreien_St%C3%A4dte_in_Deutschland"
 
 ### Download and format CITY data from Wikipedia
-response = requests.get(city_url)
+response = requests.get(city_url, headers=headers)
 soup = BeautifulSoup(response.text, 'html.parser')
 
 tables = pd.read_html(response.text)
@@ -312,7 +319,7 @@ fig, ax = plt.subplots(figsize=(10, 10))
 raw_district_shp.plot(ax=ax, color='lightblue', edgecolor='black')
 ax.set_axis_off()
 plt.savefig("images/blank_districts_map.png", format="png", dpi=150, bbox_inches='tight', pad_inches=0)
-plt.show()
+# plt.show()
 plt.close(fig)
 
 
@@ -371,7 +378,7 @@ for i in range(merged.shape[0]):
     ax.set_axis_off()
     plt.savefig(merged.loc[i, "Save_paths_Map"], format="png", dpi=150, bbox_inches='tight', pad_inches=0)
     
-    plt.show()
+    # plt.show()
     plt.close(fig)
 
 
@@ -380,14 +387,5 @@ merged["Blank_districts"] = "<img src=blank_districts_map.png>"
 
 
 merged = merged.iloc[:, [0,1,2,3,4,5,6,7,8,9,10,16]]
-merged.to_csv('11.3_Cities_and_Districts.csv', index=False)
-
-
-
-
-
-
-
-
-
+merged.to_csv('German_city-districts_anki_import.tsv', sep='\t', index=False, header=False)
 

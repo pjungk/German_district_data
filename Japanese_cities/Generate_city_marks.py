@@ -276,8 +276,8 @@ for idx, row in cities_df.iterrows():
         japan_proj.plot(ax=ax, color='none', edgecolor='#000000', linewidth=2.5)
 
         # Plot this city point
-        pt_proj.plot(ax=ax, color='#D32F2F', markersize=120, zorder=6, marker='o',
-                        edgecolor='white', linewidth=2)
+        pt_proj.plot(ax=ax, color='#D32F2F', markersize=200, zorder=6, marker='X',
+                        edgecolor='white', linewidth=1.85)
 
         # Set zoom to this city
         ax.set_xlim(minx, maxx)

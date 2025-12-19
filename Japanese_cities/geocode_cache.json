@@ -1,1556 +1,1556 @@
 {
   "東京": {
     "found": true,
-    "lat": 35.6768601,
-    "lon": 139.7638947,
-    "query": "東京, Japan",
+    "lat": 35.6792492,
+    "lon": 139.5583275,
+    "query": "東京市, Japan",
     "prefecture": "東京都"
   },
   "横浜": {
     "found": true,
-    "lat": 35.4662066,
-    "lon": 139.6231953,
-    "query": "横浜, Japan",
+    "lat": 35.4503381,
+    "lon": 139.6343802,
+    "query": "横浜市, Japan",
     "prefecture": "神奈川県"
   },
   "大阪": {
     "found": true,
     "lat": 34.6937569,
     "lon": 135.5014539,
-    "query": "大阪, Japan",
+    "query": "大阪市, Japan",
     "prefecture": "大阪府"
   },
   "名古屋": {
     "found": true,
-    "lat": 35.1709893,
-    "lon": 136.8829249,
-    "query": "名古屋, Japan",
+    "lat": 35.1851045,
+    "lon": 136.8998438,
+    "query": "名古屋市, Japan",
     "prefecture": "愛知県"
   },
   "札幌": {
     "found": true,
-    "lat": 43.0686365,
-    "lon": 141.3509218,
-    "query": "札幌, Japan",
+    "lat": 43.061936,
+    "lon": 141.3542924,
+    "query": "札幌市, Japan",
     "prefecture": "北海道"
   },
   "福岡": {
     "found": true,
-    "lat": 36.7081742,
-    "lon": 136.9316897,
-    "query": "福岡, Japan",
-    "prefecture": "富山県"
+    "lat": 33.5898988,
+    "lon": 130.4017509,
+    "query": "福岡市, Japan",
+    "prefecture": "福岡県"
   },
   "川崎": {
     "found": true,
-    "lat": 35.531404,
-    "lon": 139.696893,
-    "query": "川崎, Japan",
+    "lat": 35.5306639,
+    "lon": 139.7037668,
+    "query": "川崎市, Japan",
     "prefecture": "神奈川県"
   },
   "神戸": {
     "found": true,
-    "lat": 34.6792832,
-    "lon": 135.1784451,
-    "query": "神戸, Japan",
+    "lat": 34.6932379,
+    "lon": 135.1943764,
+    "query": "神戸市, Japan",
     "prefecture": "兵庫県"
   },
   "京都": {
     "found": true,
-    "lat": 34.9853497,
-    "lon": 135.758766,
-    "query": "京都, Japan",
+    "lat": 35.0115754,
+    "lon": 135.7681441,
+    "query": "京都市, Japan",
     "prefecture": "京都府"
   },
   "埼玉": {
     "found": true,
-    "lat": 36.1192436,
-    "lon": 139.4976783,
-    "query": "埼玉, Japan",
+    "lat": 35.8616402,
+    "lon": 139.6457957,
+    "query": "埼玉市, Japan",
     "prefecture": "埼玉県"
   },
   "広島": {
     "found": true,
-    "lat": 34.3972702,
-    "lon": 132.4759472,
-    "query": "広島, Japan",
+    "lat": 34.3917241,
+    "lon": 132.4517589,
+    "query": "広島市, Japan",
     "prefecture": "広島県"
   },
   "仙台": {
     "found": true,
     "lat": 38.2677554,
     "lon": 140.8691498,
-    "query": "仙台, Japan",
+    "query": "仙台市, Japan",
     "prefecture": "宮城県"
   },
   "千葉": {
     "found": true,
-    "lat": 35.6121041,
-    "lon": 140.1141578,
-    "query": "千葉, Japan",
+    "lat": 35.6070629,
+    "lon": 140.1062653,
+    "query": "千葉市, Japan",
     "prefecture": "千葉県"
   },
   "北九州": {
     "found": true,
     "lat": 33.8829996,
     "lon": 130.8749015,
-    "query": "北九州, Japan",
+    "query": "北九州市, Japan",
     "prefecture": "福岡県"
   },
   "堺": {
     "found": true,
-    "lat": 34.5819134,
-    "lon": 135.4688183,
-    "query": "堺, Japan",
+    "lat": 34.5737364,
+    "lon": 135.4828866,
+    "query": "堺市, Japan",
     "prefecture": "大阪府"
   },
   "浜松": {
     "found": true,
-    "lat": 34.7040188,
-    "lon": 137.7348058,
-    "query": "浜松, Japan",
+    "lat": 34.7109786,
+    "lon": 137.7259431,
+    "query": "浜松市, Japan",
     "prefecture": "静岡県"
   },
   "新潟": {
     "found": true,
-    "lat": 37.9122444,
-    "lon": 139.0613294,
-    "query": "新潟, Japan",
+    "lat": 37.9163757,
+    "lon": 139.0365062,
+    "query": "新潟市, Japan",
     "prefecture": "新潟県"
   },
   "熊本": {
     "found": true,
-    "lat": 32.7904043,
-    "lon": 130.6834486,
-    "query": "熊本, Japan",
+    "lat": 32.8033909,
+    "lon": 130.7082737,
+    "query": "熊本市, Japan",
     "prefecture": "熊本県"
   },
   "相模原": {
     "found": true,
-    "lat": 35.5814551,
-    "lon": 139.37074,
-    "query": "相模原, Japan",
+    "lat": 35.5714621,
+    "lon": 139.3731052,
+    "query": "相模原市, Japan",
     "prefecture": "神奈川県"
   },
   "岡山": {
     "found": true,
-    "lat": 34.6667504,
-    "lon": 133.9182664,
-    "query": "岡山, Japan",
+    "lat": 34.6553944,
+    "lon": 133.9194595,
+    "query": "岡山市, Japan",
     "prefecture": "岡山県"
   },
   "静岡": {
     "found": true,
-    "lat": 34.9715372,
-    "lon": 138.3883294,
-    "query": "静岡, Japan",
+    "lat": 34.9751974,
+    "lon": 138.3831697,
+    "query": "静岡市, Japan",
     "prefecture": "静岡県"
   },
   "船橋": {
     "found": true,
-    "lat": 35.7016567,
-    "lon": 139.9852496,
-    "query": "船橋, Japan",
+    "lat": 35.6945993,
+    "lon": 139.9825365,
+    "query": "船橋市, Japan",
     "prefecture": "千葉県"
   },
   "川口": {
     "found": true,
-    "lat": 35.8019257,
-    "lon": 139.7175116,
-    "query": "川口, Japan",
+    "lat": 35.8078228,
+    "lon": 139.7241054,
+    "query": "川口市, Japan",
     "prefecture": "埼玉県"
   },
   "鹿児島": {
     "found": true,
-    "lat": 31.6021814,
-    "lon": 130.5640474,
-    "query": "鹿児島, Japan",
+    "lat": 31.596793,
+    "lon": 130.5571949,
+    "query": "鹿児島市, Japan",
     "prefecture": "鹿児島県"
   },
   "八王子": {
     "found": true,
-    "lat": 35.655389,
-    "lon": 139.3394669,
-    "query": "八王子, Japan",
+    "lat": 35.6663595,
+    "lon": 139.3163653,
+    "query": "八王子市, Japan",
     "prefecture": "東京都"
   },
   "姫路": {
     "found": true,
-    "lat": 34.8270163,
-    "lon": 134.6903037,
-    "query": "姫路, Japan",
+    "lat": 34.8153529,
+    "lon": 134.6854793,
+    "query": "姫路市, Japan",
     "prefecture": "兵庫県"
   },
   "宇都宮": {
     "found": true,
-    "lat": 36.5592983,
-    "lon": 139.8981571,
-    "query": "宇都宮, Japan",
+    "lat": 36.5549677,
+    "lon": 139.8828776,
+    "query": "宇都宮市, Japan",
     "prefecture": "栃木県"
   },
   "松山": {
     "found": true,
-    "lat": 33.8399303,
-    "lon": 132.7507395,
-    "query": "松山, Japan",
+    "lat": 33.8395188,
+    "lon": 132.7653521,
+    "query": "松山市, Japan",
     "prefecture": "愛媛県"
   },
   "松戸": {
     "found": true,
-    "lat": 35.7844366,
-    "lon": 139.9006078,
-    "query": "松戸, Japan",
+    "lat": 35.7879371,
+    "lon": 139.903177,
+    "query": "松戸市, Japan",
     "prefecture": "千葉県"
   },
   "市川": {
     "found": true,
-    "lat": 35.7290245,
-    "lon": 139.9081954,
-    "query": "市川, Japan",
+    "lat": 35.721634,
+    "lon": 139.9309444,
+    "query": "市川市, Japan",
     "prefecture": "千葉県"
   },
   "東大阪": {
     "found": true,
-    "lat": 34.8255921,
-    "lon": 135.6797494,
-    "query": "東大阪, Japan",
+    "lat": 34.679391,
+    "lon": 135.6009037,
+    "query": "東大阪市, Japan",
     "prefecture": "大阪府"
   },
   "西宮": {
     "found": true,
-    "lat": 34.7390409,
-    "lon": 135.3481514,
-    "query": "西宮, Japan",
+    "lat": 34.7377745,
+    "lon": 135.3413128,
+    "query": "西宮市, Japan",
     "prefecture": "兵庫県"
   },
   "大分": {
     "found": true,
-    "lat": 33.2326262,
-    "lon": 131.6060258,
-    "query": "大分, Japan",
+    "lat": 33.2393864,
+    "lon": 131.6096524,
+    "query": "大分市, Japan",
     "prefecture": "大分県"
   },
   "倉敷": {
     "found": true,
-    "lat": 34.6018629,
-    "lon": 133.7658834,
-    "query": "倉敷, Japan",
+    "lat": 34.5850791,
+    "lon": 133.7719957,
+    "query": "倉敷市, Japan",
     "prefecture": "岡山県"
   },
   "金沢": {
     "found": true,
-    "lat": 36.5780499,
-    "lon": 136.6480247,
-    "query": "金沢, Japan",
+    "lat": 36.561627,
+    "lon": 136.6568822,
+    "query": "金沢市, Japan",
     "prefecture": "石川県"
   },
   "福山": {
     "found": true,
-    "lat": 34.4896814,
-    "lon": 133.3624148,
-    "query": "福山, Japan",
+    "lat": 34.4857039,
+    "lon": 133.3623097,
+    "query": "福山市, Japan",
     "prefecture": "広島県"
   },
   "尼崎": {
     "found": true,
-    "lat": 34.7318596,
-    "lon": 135.4319353,
-    "query": "尼崎, Japan",
+    "lat": 34.7339783,
+    "lon": 135.4064015,
+    "query": "尼崎市, Japan",
     "prefecture": "兵庫県"
   },
   "藤沢": {
     "found": true,
-    "lat": 35.3371805,
-    "lon": 139.4871854,
-    "query": "藤沢, Japan",
+    "lat": 35.3388615,
+    "lon": 139.4909335,
+    "query": "藤沢市, Japan",
     "prefecture": "神奈川県"
   },
   "町田": {
     "found": true,
-    "lat": 35.5420722,
-    "lon": 139.4454358,
-    "query": "町田, Japan",
+    "lat": 35.5466803,
+    "lon": 139.4386999,
+    "query": "町田市, Japan",
     "prefecture": "東京都"
   },
   "柏": {
     "found": true,
-    "lat": 35.8623916,
-    "lon": 139.9706966,
-    "query": "柏, Japan",
+    "lat": 35.8676218,
+    "lon": 139.9756876,
+    "query": "柏市, Japan",
     "prefecture": "千葉県"
   },
   "豊田": {
     "found": true,
-    "lat": 35.6595146,
-    "lon": 139.3814849,
-    "query": "豊田, Japan",
-    "prefecture": "東京都"
+    "lat": 35.0834524,
+    "lon": 137.156737,
+    "query": "豊田市, Japan",
+    "prefecture": "愛知県"
   },
   "高松": {
     "found": true,
-    "lat": 34.3434474,
-    "lon": 134.0489373,
-    "query": "高松, Japan",
+    "lat": 34.3425592,
+    "lon": 134.0465338,
+    "query": "高松市, Japan",
     "prefecture": "香川県"
   },
   "富山": {
     "found": true,
-    "lat": 36.7016421,
-    "lon": 137.2127904,
-    "query": "富山, Japan",
+    "lat": 36.6957569,
+    "lon": 137.2136215,
+    "query": "富山市, Japan",
     "prefecture": "富山県"
   },
   "長崎": {
     "found": true,
-    "lat": 32.7520719,
-    "lon": 129.8686699,
-    "query": "長崎, Japan",
+    "lat": 32.7501611,
+    "lon": 129.8781002,
+    "query": "長崎市, Japan",
     "prefecture": "長崎県"
   },
   "岐阜": {
     "found": true,
-    "lat": 35.4094858,
-    "lon": 136.7569769,
-    "query": "岐阜, Japan",
+    "lat": 35.4230949,
+    "lon": 136.7627526,
+    "query": "岐阜市, Japan",
     "prefecture": "岐阜県"
   },
   "豊中": {
     "found": true,
-    "lat": 34.7876402,
-    "lon": 135.4611542,
-    "query": "豊中, Japan",
+    "lat": 34.7811578,
+    "lon": 135.4699059,
+    "query": "豊中市, Japan",
     "prefecture": "大阪府"
   },
   "宮崎": {
     "found": true,
-    "lat": 31.9157601,
-    "lon": 131.4320258,
-    "query": "宮崎, Japan",
+    "lat": 31.9076334,
+    "lon": 131.4204022,
+    "query": "宮崎市, Japan",
     "prefecture": "宮崎県"
   },
   "枚方": {
     "found": true,
-    "lat": 34.7084964,
-    "lon": 135.4998121,
-    "query": "枚方, Japan",
+    "lat": 34.8144363,
+    "lon": 135.6507278,
+    "query": "枚方市, Japan",
     "prefecture": "大阪府"
   },
   "横須賀": {
     "found": true,
-    "lat": 35.2841074,
-    "lon": 139.655214,
-    "query": "横須賀, Japan",
+    "lat": 35.2814779,
+    "lon": 139.6719597,
+    "query": "横須賀市, Japan",
     "prefecture": "神奈川県"
   },
   "吹田": {
     "found": true,
-    "lat": 34.7631584,
-    "lon": 135.5235882,
-    "query": "吹田, Japan",
+    "lat": 34.7594193,
+    "lon": 135.516835,
+    "query": "吹田市, Japan",
     "prefecture": "大阪府"
   },
   "岡崎": {
     "found": true,
-    "lat": 34.9256558,
-    "lon": 137.1574107,
-    "query": "岡崎, Japan",
+    "lat": 34.9548784,
+    "lon": 137.1728226,
+    "query": "岡崎市, Japan",
     "prefecture": "愛知県"
   },
   "一宮": {
     "found": true,
-    "lat": 34.2831963,
-    "lon": 134.022584,
-    "query": "一宮, Japan",
-    "prefecture": "香川県"
+    "lat": 35.304878,
+    "lon": 136.806915,
+    "query": "一宮市, Japan",
+    "prefecture": "愛知県"
   },
   "長野": {
     "found": true,
-    "lat": 36.6442745,
-    "lon": 138.1883615,
-    "query": "長野, Japan",
+    "lat": 36.6485851,
+    "lon": 138.1947664,
+    "query": "長野市, Japan",
     "prefecture": "長野県"
   },
   "高崎": {
     "found": true,
-    "lat": 36.3223804,
-    "lon": 139.0127191,
-    "query": "高崎, Japan",
+    "lat": 36.3220984,
+    "lon": 139.0032758,
+    "query": "高崎市, Japan",
     "prefecture": "群馬県"
   },
   "豊橋": {
     "found": true,
-    "lat": 34.7629034,
-    "lon": 137.3822523,
-    "query": "豊橋, Japan",
+    "lat": 34.769123,
+    "lon": 137.391461,
+    "query": "豊橋市, Japan",
     "prefecture": "愛知県"
   },
   "和歌山": {
     "found": true,
-    "lat": 34.2322107,
-    "lon": 135.19158,
-    "query": "和歌山, Japan",
+    "lat": 34.2342931,
+    "lon": 135.1783549,
+    "query": "和歌山市, Japan",
     "prefecture": "和歌山県"
   },
   "奈良": {
     "found": true,
-    "lat": 34.6808117,
-    "lon": 135.8189414,
-    "query": "奈良, Japan",
+    "lat": 34.6845445,
+    "lon": 135.8048359,
+    "query": "奈良市, Japan",
     "prefecture": "奈良県"
   },
   "川越": {
     "found": true,
-    "lat": 35.9070394,
-    "lon": 139.483315,
-    "query": "川越, Japan",
+    "lat": 35.9251145,
+    "lon": 139.4856927,
+    "query": "川越市, Japan",
     "prefecture": "埼玉県"
   },
   "高槻": {
     "found": true,
-    "lat": 34.8518109,
-    "lon": 135.6177858,
-    "query": "高槻, Japan",
+    "lat": 34.8464785,
+    "lon": 135.6172204,
+    "query": "高槻市, Japan",
     "prefecture": "大阪府"
   },
   "大津": {
     "found": true,
-    "lat": 35.0030494,
-    "lon": 135.8648951,
-    "query": "大津, Japan",
+    "lat": 35.0177852,
+    "lon": 135.8548122,
+    "query": "大津市, Japan",
     "prefecture": "滋賀県"
   },
   "所沢": {
     "found": true,
-    "lat": 35.7873039,
-    "lon": 139.4734504,
-    "query": "所沢, Japan",
+    "lat": 35.7987179,
+    "lon": 139.4696758,
+    "query": "所沢市, Japan",
     "prefecture": "埼玉県"
   },
   "越谷": {
     "found": true,
-    "lat": 35.8883843,
-    "lon": 139.7860737,
-    "query": "越谷, Japan",
+    "lat": 35.8903993,
+    "lon": 139.7908633,
+    "query": "越谷市, Japan",
     "prefecture": "埼玉県"
   },
   "磐城": {
     "found": true,
-    "lat": 34.5113689,
-    "lon": 135.7108183,
-    "query": "磐城, Japan",
-    "prefecture": "奈良県"
+    "lat": 37.0504227,
+    "lon": 140.8876338,
+    "query": "磐城市, Japan",
+    "prefecture": "福島県"
   },
   "前橋": {
     "found": true,
-    "lat": 36.3832125,
-    "lon": 139.0726408,
-    "query": "前橋, Japan",
+    "lat": 36.3893418,
+    "lon": 139.0632826,
+    "query": "前橋市, Japan",
     "prefecture": "群馬県"
   },
   "旭川": {
     "found": true,
-    "lat": 43.7627261,
-    "lon": 142.3586195,
-    "query": "旭川, Japan",
+    "lat": 43.770625,
+    "lon": 142.3649743,
+    "query": "旭川市, Japan",
     "prefecture": "北海道"
   },
   "郡山": {
     "found": true,
-    "lat": 37.398488,
-    "lon": 140.388798,
-    "query": "郡山, Japan",
+    "lat": 37.404937,
+    "lon": 140.333381,
+    "query": "郡山市, Japan",
     "prefecture": "福島県"
   },
   "高知": {
     "found": true,
-    "lat": 33.5671776,
-    "lon": 133.5436574,
-    "query": "高知, Japan",
+    "lat": 33.5588482,
+    "lon": 133.5310918,
+    "query": "高知市, Japan",
     "prefecture": "高知県"
   },
   "那覇": {
     "found": true,
     "lat": 26.2122345,
     "lon": 127.6791452,
-    "query": "那覇, Japan",
+    "query": "那覇市, Japan",
     "prefecture": "沖縄県"
   },
   "春日井": {
     "found": true,
-    "lat": 35.2432237,
-    "lon": 136.985229,
-    "query": "春日井, Japan",
+    "lat": 35.273804,
+    "lon": 137.007459,
+    "query": "春日井市, Japan",
     "prefecture": "愛知県"
   },
   "秋田": {
     "found": true,
-    "lat": 39.7168833,
-    "lon": 140.1296657,
-    "query": "秋田, Japan",
+    "lat": 39.7197629,
+    "lon": 140.1034669,
+    "query": "秋田市, Japan",
     "prefecture": "秋田県"
   },
   "四日市": {
     "found": true,
-    "lat": 34.9630391,
-    "lon": 136.6302091,
+    "lat": 34.9630151,
+    "lon": 136.6302658,
     "query": "四日市, Japan",
     "prefecture": "三重県"
   },
   "明石": {
     "found": true,
-    "lat": 34.6491038,
-    "lon": 134.9927483,
-    "query": "明石, Japan",
+    "lat": 34.6482884,
+    "lon": 134.993215,
+    "query": "明石市, Japan",
     "prefecture": "兵庫県"
   },
   "久留米": {
     "found": true,
-    "lat": 33.3206417,
-    "lon": 130.5014036,
-    "query": "久留米, Japan",
+    "lat": 33.3196545,
+    "lon": 130.5080625,
+    "query": "久留米市, Japan",
     "prefecture": "福岡県"
   },
   "盛岡": {
     "found": true,
     "lat": 39.7021331,
     "lon": 141.1545397,
-    "query": "盛岡, Japan",
+    "query": "盛岡市, Japan",
     "prefecture": "岩手県"
   },
   "茨木": {
     "found": true,
-    "lat": 34.8152105,
-    "lon": 135.5621146,
-    "query": "茨木, Japan",
+    "lat": 34.8161302,
+    "lon": 135.5685528,
+    "query": "茨木市, Japan",
     "prefecture": "大阪府"
   },
   "福島": {
     "found": true,
-    "lat": 37.75454,
-    "lon": 140.4592144,
-    "query": "福島, Japan",
+    "lat": 37.760777,
+    "lon": 140.4745807,
+    "query": "福島市, Japan",
     "prefecture": "福島県"
   },
   "青森": {
     "found": true,
-    "lat": 40.8299247,
-    "lon": 140.7341384,
-    "query": "青森, Japan",
+    "lat": 40.8222833,
+    "lon": 140.7472027,
+    "query": "青森市, Japan",
     "prefecture": "青森県"
   },
   "津": {
     "found": true,
-    "lat": 34.7340274,
-    "lon": 136.5105649,
-    "query": "津, Japan",
+    "lat": 34.7341973,
+    "lon": 136.5153283,
+    "query": "津市, Japan",
     "prefecture": "三重県"
   },
   "水戸": {
     "found": true,
-    "lat": 36.370781,
-    "lon": 140.4762395,
-    "query": "水戸, Japan",
+    "lat": 36.3659174,
+    "lon": 140.4731743,
+    "query": "水戸市, Japan",
     "prefecture": "茨城県"
   },
   "市原": {
     "found": true,
-    "lat": 35.0882999,
-    "lon": 135.7631122,
-    "query": "市原, Japan",
-    "prefecture": "京都府"
+    "lat": 35.497775,
+    "lon": 140.1156996,
+    "query": "市原市, Japan",
+    "prefecture": "千葉県"
   },
   "長岡": {
     "found": true,
-    "lat": 37.4478778,
-    "lon": 138.8541667,
-    "query": "長岡, Japan",
+    "lat": 37.446996,
+    "lon": 138.8512199,
+    "query": "長岡市, Japan",
     "prefecture": "新潟県"
   },
   "八尾": {
     "found": true,
-    "lat": 34.6174493,
-    "lon": 135.5966055,
-    "query": "八尾, Japan",
+    "lat": 34.6269018,
+    "lon": 135.6008668,
+    "query": "八尾市, Japan",
     "prefecture": "大阪府"
   },
   "府中": {
     "found": true,
-    "lat": 35.672219,
-    "lon": 139.4800091,
-    "query": "府中, Japan",
+    "lat": 35.6693751,
+    "lon": 139.4774094,
+    "query": "府中市, Japan",
     "prefecture": "東京都"
   },
   "福井": {
     "found": true,
-    "lat": 36.0618051,
-    "lon": 136.2231202,
-    "query": "福井, Japan",
+    "lat": 36.061751,
+    "lon": 136.2260542,
+    "query": "福井市, Japan",
     "prefecture": "福井県"
   },
   "加古川": {
     "found": true,
-    "lat": 34.9781099,
-    "lon": 134.974737,
-    "query": "加古川, Japan",
+    "lat": 34.7569826,
+    "lon": 134.8412247,
+    "query": "加古川市, Japan",
     "prefecture": "兵庫県"
   },
   "平塚": {
     "found": true,
-    "lat": 35.3274105,
-    "lon": 139.3492322,
-    "query": "平塚, Japan",
+    "lat": 35.3350609,
+    "lon": 139.3494345,
+    "query": "平塚市, Japan",
     "prefecture": "神奈川県"
   },
   "下関": {
     "found": true,
-    "lat": 33.9493851,
-    "lon": 130.9217895,
-    "query": "下関, Japan",
+    "lat": 33.9577116,
+    "lon": 130.9415455,
+    "query": "下関市, Japan",
     "prefecture": "山口県"
   },
   "徳島": {
     "found": true,
-    "lat": 34.0746743,
-    "lon": 134.5513898,
-    "query": "徳島, Japan",
+    "lat": 34.0698307,
+    "lon": 134.5550353,
+    "query": "徳島市, Japan",
     "prefecture": "徳島県"
   },
   "函館": {
     "found": true,
-    "lat": 41.7737872,
-    "lon": 140.7261884,
-    "query": "函館, Japan",
+    "lat": 41.768793,
+    "lon": 140.729008,
+    "query": "函館市, Japan",
     "prefecture": "北海道"
   },
   "草加": {
     "found": true,
-    "lat": 35.8282516,
-    "lon": 139.8033621,
-    "query": "草加, Japan",
+    "lat": 35.8262233,
+    "lon": 139.8061784,
+    "query": "草加市, Japan",
     "prefecture": "埼玉県"
   },
   "山形": {
     "found": true,
-    "lat": 38.2484701,
-    "lon": 140.3278031,
-    "query": "山形, Japan",
+    "lat": 38.2553393,
+    "lon": 140.3400205,
+    "query": "山形市, Japan",
     "prefecture": "山形県"
   },
   "富士": {
     "found": true,
-    "lat": 35.1514949,
-    "lon": 138.6509228,
-    "query": "富士, Japan",
+    "lat": 35.161852,
+    "lon": 138.6763863,
+    "query": "富士市, Japan",
     "prefecture": "静岡県"
   },
   "佐世保": {
     "found": true,
-    "lat": 33.1639237,
-    "lon": 129.7257649,
-    "query": "佐世保, Japan",
+    "lat": 33.1799965,
+    "lon": 129.7152872,
+    "query": "佐世保市, Japan",
     "prefecture": "長崎県"
   },
   "調布": {
     "found": true,
-    "lat": 35.6517768,
-    "lon": 139.5448061,
-    "query": "調布, Japan",
+    "lat": 35.6506036,
+    "lon": 139.5407066,
+    "query": "調布市, Japan",
     "prefecture": "東京都"
   },
   "茅ケ崎": {
     "found": true,
-    "lat": 35.3305173,
-    "lon": 139.4075327,
-    "query": "茅ケ崎, Japan",
+    "lat": 35.329479,
+    "lon": 139.405371,
+    "query": "茅ケ崎市, Japan",
     "prefecture": "神奈川県"
   },
   "筑波": {
     "found": true,
-    "lat": 36.0826496,
-    "lon": 140.1111943,
-    "query": "筑波, Japan",
+    "lat": 36.0833265,
+    "lon": 140.077279,
+    "query": "筑波市, Japan",
     "prefecture": "茨城県"
   },
   "松本": {
     "found": true,
-    "lat": 36.2307332,
-    "lon": 137.9644409,
-    "query": "松本, Japan",
+    "lat": 36.2382047,
+    "lon": 137.9687141,
+    "query": "松本市, Japan",
     "prefecture": "長野県"
   },
   "大和": {
     "found": true,
-    "lat": 35.4699613,
-    "lon": 139.4614678,
-    "query": "大和, Japan",
+    "lat": 35.4874895,
+    "lon": 139.4578937,
+    "query": "大和市, Japan",
     "prefecture": "神奈川県"
   },
   "佐賀": {
     "found": true,
-    "lat": 33.2641754,
-    "lon": 130.2974729,
-    "query": "佐賀, Japan",
+    "lat": 33.2639134,
+    "lon": 130.3008378,
+    "query": "佐賀市, Japan",
     "prefecture": "佐賀県"
   },
   "春日部": {
     "found": true,
-    "lat": 35.980074,
-    "lon": 139.7520793,
-    "query": "春日部, Japan",
+    "lat": 35.9757957,
+    "lon": 139.752019,
+    "query": "春日部市, Japan",
     "prefecture": "埼玉県"
   },
   "寝屋川": {
     "found": true,
-    "lat": 34.7055838,
-    "lon": 135.6104161,
-    "query": "寝屋川, Japan",
+    "lat": 34.7660998,
+    "lon": 135.6278989,
+    "query": "寝屋川市, Japan",
     "prefecture": "大阪府"
   },
   "上尾": {
     "found": true,
-    "lat": 35.9733274,
-    "lon": 139.5884718,
-    "query": "上尾, Japan",
+    "lat": 35.9774082,
+    "lon": 139.5930504,
+    "query": "上尾市, Japan",
     "prefecture": "埼玉県"
   },
   "宝塚": {
     "found": true,
-    "lat": 34.8116243,
-    "lon": 135.3402463,
-    "query": "宝塚, Japan",
+    "lat": 34.800474,
+    "lon": 135.3608674,
+    "query": "宝塚市, Japan",
     "prefecture": "兵庫県"
   },
   "厚木": {
     "found": true,
-    "lat": 35.4433894,
-    "lon": 139.3783891,
-    "query": "厚木, Japan",
+    "lat": 35.4429646,
+    "lon": 139.3625125,
+    "query": "厚木市, Japan",
     "prefecture": "神奈川県"
   },
   "八戸": {
     "found": true,
-    "lat": 40.5093889,
-    "lon": 141.4311833,
-    "query": "八戸, Japan",
+    "lat": 40.5122388,
+    "lon": 141.4882959,
+    "query": "八戸市, Japan",
     "prefecture": "青森県"
   },
   "太田": {
     "found": true,
-    "lat": 36.294102,
-    "lon": 139.3787733,
-    "query": "太田, Japan",
+    "lat": 36.2911561,
+    "lon": 139.3754233,
+    "query": "太田市, Japan",
     "prefecture": "群馬県"
   },
   "呉": {
     "found": true,
-    "lat": 34.244625,
-    "lon": 132.5574552,
-    "query": "呉, Japan",
+    "lat": 34.2484488,
+    "lon": 132.5652498,
+    "query": "呉市, Japan",
     "prefecture": "広島県"
   },
   "伊勢崎": {
     "found": true,
-    "lat": 36.3267446,
-    "lon": 139.1938364,
-    "query": "伊勢崎, Japan",
+    "lat": 36.3111734,
+    "lon": 139.1968083,
+    "query": "伊勢崎市, Japan",
     "prefecture": "群馬県"
   },
   "西東京": {
     "found": true,
-    "lat": 34.9741067,
-    "lon": 135.7516775,
-    "query": "西東京, Japan",
-    "prefecture": "京都府"
+    "lat": 35.7261366,
+    "lon": 139.5380347,
+    "query": "西東京市, Japan",
+    "prefecture": "東京都"
   },
   "松江": {
     "found": true,
-    "lat": 35.4641187,
-    "lon": 133.0638426,
-    "query": "松江, Japan",
+    "lat": 35.468115,
+    "lon": 133.048768,
+    "query": "松江市, Japan",
     "prefecture": "島根県"
   },
   "流山": {
     "found": true,
-    "lat": 35.8554965,
-    "lon": 139.9016687,
-    "query": "流山, Japan",
+    "lat": 35.8555836,
+    "lon": 139.9027815,
+    "query": "流山市, Japan",
     "prefecture": "千葉県"
   },
   "八千代": {
     "found": true,
-    "lat": 37.9152263,
-    "lon": 139.0532748,
-    "query": "八千代, Japan",
-    "prefecture": "新潟県"
+    "lat": 35.722537,
+    "lon": 140.0995131,
+    "query": "八千代市, Japan",
+    "prefecture": "千葉県"
   },
   "小平": {
     "found": true,
-    "lat": 35.7370404,
-    "lon": 139.4882532,
-    "query": "小平, Japan",
+    "lat": 35.72522,
+    "lon": 139.476606,
+    "query": "小平市, Japan",
     "prefecture": "東京都"
   },
   "伊丹": {
     "found": true,
-    "lat": 34.7798693,
-    "lon": 135.4137851,
-    "query": "伊丹, Japan",
+    "lat": 34.7845024,
+    "lon": 135.4004409,
+    "query": "伊丹市, Japan",
     "prefecture": "兵庫県"
   },
   "東広島": {
     "found": true,
-    "lat": 34.3888993,
-    "lon": 132.7588789,
-    "query": "東広島, Japan",
+    "lat": 34.42683,
+    "lon": 132.741552,
+    "query": "東広島市, Japan",
     "prefecture": "広島県"
   },
   "鈴鹿": {
     "found": true,
-    "lat": 34.8784912,
-    "lon": 136.5888447,
-    "query": "鈴鹿, Japan",
+    "lat": 34.8817102,
+    "lon": 136.5836516,
+    "query": "鈴鹿市, Japan",
     "prefecture": "三重県"
   },
   "三鷹": {
     "found": true,
-    "lat": 35.7027148,
-    "lon": 139.560901,
-    "query": "三鷹, Japan",
+    "lat": 35.6833926,
+    "lon": 139.5592421,
+    "query": "三鷹市, Japan",
     "prefecture": "東京都"
   },
   "熊谷": {
     "found": true,
-    "lat": 36.1390715,
-    "lon": 139.390035,
-    "query": "熊谷, Japan",
+    "lat": 36.1472472,
+    "lon": 139.3886141,
+    "query": "熊谷市, Japan",
     "prefecture": "埼玉県"
   },
   "山口": {
     "found": true,
-    "lat": 34.1725428,
-    "lon": 131.4809337,
-    "query": "山口, Japan",
+    "lat": 34.1781317,
+    "lon": 131.4737077,
+    "query": "山口市, Japan",
     "prefecture": "山口県"
   },
   "岸和田": {
     "found": true,
-    "lat": 34.4603208,
-    "lon": 135.378105,
-    "query": "岸和田, Japan",
+    "lat": 34.4644,
+    "lon": 135.385237,
+    "query": "岸和田市, Japan",
     "prefecture": "大阪府"
   },
   "日野": {
     "found": true,
-    "lat": 35.679389,
-    "lon": 139.3938458,
-    "query": "日野, Japan",
+    "lat": 35.6713394,
+    "lon": 139.3949801,
+    "query": "日野市, Japan",
     "prefecture": "東京都"
   },
   "沼津": {
     "found": true,
-    "lat": 35.1031271,
-    "lon": 138.8593352,
-    "query": "沼津, Japan",
+    "lat": 35.0957963,
+    "lon": 138.8633946,
+    "query": "沼津市, Japan",
     "prefecture": "静岡県"
   },
   "小田原": {
     "found": true,
-    "lat": 35.2561225,
-    "lon": 139.1545547,
-    "query": "小田原, Japan",
+    "lat": 35.2645301,
+    "lon": 139.152246,
+    "query": "小田原市, Japan",
     "prefecture": "神奈川県"
   },
   "鳥取": {
     "found": true,
-    "lat": 35.4938705,
-    "lon": 134.2258759,
-    "query": "鳥取, Japan",
+    "lat": 35.4943948,
+    "lon": 134.2219282,
+    "query": "鳥取市, Japan",
     "prefecture": "鳥取県"
   },
   "安城": {
     "found": true,
-    "lat": 34.9601972,
-    "lon": 137.0871923,
-    "query": "安城, Japan",
+    "lat": 34.947764,
+    "lon": 137.075563,
+    "query": "安城市, Japan",
     "prefecture": "愛知県"
   },
   "上越": {
     "found": true,
-    "lat": 43.8883609,
-    "lon": 142.9938233,
-    "query": "上越, Japan",
-    "prefecture": "北海道"
+    "lat": 37.1478816,
+    "lon": 138.2359501,
+    "query": "上越市, Japan",
+    "prefecture": "新潟県"
   },
   "立川": {
     "found": true,
-    "lat": 35.6979822,
-    "lon": 139.4135508,
-    "query": "立川, Japan",
+    "lat": 35.7139057,
+    "lon": 139.4077701,
+    "query": "立川市, Japan",
     "prefecture": "東京都"
   },
   "豊川": {
     "found": true,
-    "lat": 34.9050142,
-    "lon": 137.5178878,
-    "query": "豊川, Japan",
+    "lat": 34.827644,
+    "lon": 137.378586,
+    "query": "豊川市, Japan",
     "prefecture": "愛知県"
   },
   "和泉": {
     "found": true,
-    "lat": 35.6782189,
-    "lon": 139.6503888,
-    "query": "和泉, Japan",
-    "prefecture": "東京都"
+    "lat": 34.4831932,
+    "lon": 135.4232139,
+    "query": "和泉市, Japan",
+    "prefecture": "大阪府"
   },
   "宇治": {
     "found": true,
-    "lat": 34.8950117,
-    "lon": 135.8063772,
-    "query": "宇治, Japan",
+    "lat": 34.885124,
+    "lon": 135.7995651,
+    "query": "宇治市, Japan",
     "prefecture": "京都府"
   },
   "習志野": {
     "found": true,
-    "lat": 35.7151508,
-    "lon": 140.0427376,
-    "query": "習志野, Japan",
+    "lat": 35.6816753,
+    "lon": 140.0272065,
+    "query": "習志野市, Japan",
     "prefecture": "千葉県"
   },
   "日立": {
     "found": true,
-    "lat": 36.5908428,
-    "lon": 140.6620685,
-    "query": "日立, Japan",
+    "lat": 36.5991225,
+    "lon": 140.6504604,
+    "query": "日立市, Japan",
     "prefecture": "茨城県"
   },
   "出雲": {
     "found": true,
-    "lat": 34.5277604,
-    "lon": 135.8899958,
-    "query": "出雲, Japan",
-    "prefecture": "奈良県"
+    "lat": 35.3668891,
+    "lon": 132.7548827,
+    "query": "出雲市, Japan",
+    "prefecture": "島根県"
   },
   "鎌倉": {
     "found": true,
     "lat": 35.3192808,
     "lon": 139.5469627,
-    "query": "鎌倉, Japan",
+    "query": "鎌倉市, Japan",
     "prefecture": "神奈川県"
   },
   "浦安": {
     "found": true,
-    "lat": 35.6658445,
-    "lon": 139.8930133,
-    "query": "浦安, Japan",
+    "lat": 35.6539105,
+    "lon": 139.902563,
+    "query": "浦安市, Japan",
     "prefecture": "千葉県"
   },
   "苫小牧": {
     "found": true,
-    "lat": 42.6396889,
-    "lon": 141.5967576,
-    "query": "苫小牧, Japan",
+    "lat": 42.6341039,
+    "lon": 141.6054899,
+    "query": "苫小牧市, Japan",
     "prefecture": "北海道"
   },
   "西尾": {
     "found": true,
-    "lat": 34.8639315,
-    "lon": 137.0577385,
-    "query": "西尾, Japan",
+    "lat": 34.822498,
+    "lon": 137.069626,
+    "query": "西尾市, Japan",
     "prefecture": "愛知県"
   },
   "佐倉": {
     "found": true,
-    "lat": 35.7097793,
-    "lon": 140.2260675,
-    "query": "佐倉, Japan",
+    "lat": 35.7234619,
+    "lon": 140.2240158,
+    "query": "佐倉市, Japan",
     "prefecture": "千葉県"
   },
   "弘前": {
     "found": true,
-    "lat": 40.5995511,
-    "lon": 140.4852086,
-    "query": "弘前, Japan",
+    "lat": 40.6030543,
+    "lon": 140.4640389,
+    "query": "弘前市, Japan",
     "prefecture": "青森県"
   },
   "小山": {
     "found": true,
-    "lat": 36.3129364,
-    "lon": 139.8065054,
-    "query": "小山, Japan",
+    "lat": 36.315537,
+    "lon": 139.8006952,
+    "query": "小山市, Japan",
     "prefecture": "栃木県"
   },
   "磐田": {
     "found": true,
     "lat": 34.706481,
     "lon": 137.851285,
-    "query": "磐田, Japan",
+    "query": "磐田市, Japan",
     "prefecture": "静岡県"
   },
   "帯広": {
     "found": true,
-    "lat": 42.9181018,
-    "lon": 143.2020215,
-    "query": "帯広, Japan",
+    "lat": 42.923809,
+    "lon": 143.1966324,
+    "query": "帯広市, Japan",
     "prefecture": "北海道"
   },
   "高岡": {
     "found": true,
-    "lat": 36.7409476,
-    "lon": 137.0147762,
-    "query": "高岡, Japan",
+    "lat": 36.7362147,
+    "lon": 137.0187306,
+    "query": "高岡市, Japan",
     "prefecture": "富山県"
   },
   "新座": {
     "found": true,
-    "lat": 35.8037661,
-    "lon": 139.5561853,
-    "query": "新座, Japan",
+    "lat": 35.7931194,
+    "lon": 139.5657258,
+    "query": "新座市, Japan",
     "prefecture": "埼玉県"
   },
   "釧路": {
     "found": true,
-    "lat": 42.9906837,
-    "lon": 144.3820381,
-    "query": "釧路, Japan",
+    "lat": 42.9849503,
+    "lon": 144.3820491,
+    "query": "釧路市, Japan",
     "prefecture": "北海道"
   },
   "宇部": {
     "found": true,
-    "lat": 34.0032023,
-    "lon": 131.2220224,
-    "query": "宇部, Japan",
+    "lat": 33.9518498,
+    "lon": 131.2472243,
+    "query": "宇部市, Japan",
     "prefecture": "山口県"
   },
   "秦野": {
     "found": true,
-    "lat": 35.3702949,
-    "lon": 139.2257281,
-    "query": "秦野, Japan",
+    "lat": 35.3747319,
+    "lon": 139.2200144,
+    "query": "秦野市, Japan",
     "prefecture": "神奈川県"
   },
   "都城": {
     "found": true,
-    "lat": 31.7365393,
-    "lon": 131.0744458,
-    "query": "都城, Japan",
+    "lat": 31.7196106,
+    "lon": 131.0612029,
+    "query": "都城市, Japan",
     "prefecture": "宮崎県"
   },
   "松阪": {
     "found": true,
-    "lat": 34.5769258,
-    "lon": 136.5358573,
-    "query": "松阪, Japan",
+    "lat": 34.5779441,
+    "lon": 136.5276002,
+    "query": "松阪市, Japan",
     "prefecture": "三重県"
   },
   "大垣": {
     "found": true,
-    "lat": 35.3665988,
-    "lon": 136.6169241,
-    "query": "大垣, Japan",
+    "lat": 35.3671141,
+    "lon": 136.6179746,
+    "query": "大垣市, Japan",
     "prefecture": "岐阜県"
   },
   "ひたちなか": {
     "found": true,
-    "lat": 36.3926096,
-    "lon": 140.5296595,
-    "query": "ひたちなか, Japan",
+    "lat": 36.3961235,
+    "lon": 140.5353397,
+    "query": "ひたちなか市, Japan",
     "prefecture": "茨城県"
   },
   "栃木": {
     "found": true,
-    "lat": 36.3717455,
-    "lon": 139.7313483,
-    "query": "栃木, Japan",
+    "lat": 36.3818177,
+    "lon": 139.733591,
+    "query": "栃木市, Japan",
     "prefecture": "栃木県"
   },
   "上田": {
     "found": true,
-    "lat": 36.3967857,
-    "lon": 138.2484456,
-    "query": "上田, Japan",
+    "lat": 36.4021192,
+    "lon": 138.2490506,
+    "query": "上田市, Japan",
     "prefecture": "長野県"
   },
   "刈谷": {
     "found": true,
-    "lat": 34.9911125,
-    "lon": 137.0088756,
-    "query": "刈谷, Japan",
+    "lat": 34.974678,
+    "lon": 137.002791,
+    "query": "刈谷市, Japan",
     "prefecture": "愛知県"
   },
   "野田": {
     "found": true,
-    "lat": 40.1103223,
-    "lon": 141.8177344,
-    "query": "野田, Japan",
-    "prefecture": "岩手県"
+    "lat": 35.9549076,
+    "lon": 139.8748667,
+    "query": "野田市, Japan",
+    "prefecture": "千葉県"
   },
   "川西": {
     "found": true,
-    "lat": 34.1566233,
-    "lon": 132.1773925,
-    "query": "川西, Japan",
-    "prefecture": "山口県"
+    "lat": 34.8301826,
+    "lon": 135.4172191,
+    "query": "川西市, Japan",
+    "prefecture": "兵庫県"
   },
   "東村山": {
     "found": true,
-    "lat": 35.750799,
-    "lon": 139.3883679,
-    "query": "東村山, Japan",
+    "lat": 35.768929,
+    "lon": 139.484539,
+    "query": "東村山市, Japan",
     "prefecture": "東京都"
   },
   "今治": {
     "found": true,
-    "lat": 34.0641845,
-    "lon": 132.9936721,
-    "query": "今治, Japan",
+    "lat": 34.0658182,
+    "lon": 132.9976758,
+    "query": "今治市, Japan",
     "prefecture": "愛媛県"
   },
   "久喜": {
     "found": true,
-    "lat": 36.0656137,
-    "lon": 139.6775246,
-    "query": "久喜, Japan",
+    "lat": 36.0617964,
+    "lon": 139.6671445,
+    "query": "久喜市, Japan",
     "prefecture": "埼玉県"
   },
   "武蔵野": {
     "found": true,
-    "lat": 35.7202101,
-    "lon": 139.3767428,
-    "query": "武蔵野, Japan",
+    "lat": 35.7177239,
+    "lon": 139.5659802,
+    "query": "武蔵野市, Japan",
     "prefecture": "東京都"
   },
   "小牧": {
     "found": true,
-    "lat": 35.2889092,
-    "lon": 136.928049,
-    "query": "小牧, Japan",
+    "lat": 35.3066073,
+    "lon": 136.934098,
+    "query": "小牧市, Japan",
     "prefecture": "愛知県"
   },
   "狭山": {
     "found": true,
-    "lat": 34.5163526,
-    "lon": 135.5485085,
-    "query": "狭山, Japan",
-    "prefecture": "大阪府"
+    "lat": 35.8528971,
+    "lon": 139.4122999,
+    "query": "狭山市, Japan",
+    "prefecture": "埼玉県"
   },
   "米子": {
     "found": true,
-    "lat": 35.4233042,
-    "lon": 133.3367834,
-    "query": "米子, Japan",
+    "lat": 35.4276408,
+    "lon": 133.331459,
+    "query": "米子市, Japan",
     "prefecture": "鳥取県"
   },
   "多摩": {
     "found": true,
-    "lat": 35.6769116,
-    "lon": 139.5172032,
-    "query": "多摩, Japan",
+    "lat": 35.6370223,
+    "lon": 139.4463569,
+    "query": "多摩市, Japan",
     "prefecture": "東京都"
   },
   "入間": {
     "found": true,
-    "lat": 34.6309113,
-    "lon": 138.8098784,
-    "query": "入間, Japan",
-    "prefecture": "静岡県"
+    "lat": 35.8358142,
+    "lon": 139.3909293,
+    "query": "入間市, Japan",
+    "prefecture": "埼玉県"
   },
   "足利": {
     "found": true,
-    "lat": 36.3319671,
-    "lon": 139.4562493,
-    "query": "足利, Japan",
+    "lat": 36.3400358,
+    "lon": 139.4488397,
+    "query": "足利市, Japan",
     "prefecture": "栃木県"
   },
   "各務原": {
     "found": true,
     "lat": 35.3995831,
     "lon": 136.8485648,
-    "query": "各務原, Japan",
+    "query": "各務原市, Japan",
     "prefecture": "岐阜県"
   },
   "草津": {
     "found": true,
-    "lat": 35.0179088,
-    "lon": 135.96046,
-    "query": "草津, Japan",
+    "lat": 35.0131501,
+    "lon": 135.9598728,
+    "query": "草津市, Japan",
     "prefecture": "滋賀県"
   },
   "守口": {
     "found": true,
-    "lat": 34.7384668,
-    "lon": 135.5643827,
-    "query": "守口, Japan",
+    "lat": 34.735816,
+    "lon": 135.5617277,
+    "query": "守口市, Japan",
     "prefecture": "大阪府"
   },
   "沖縄": {
     "found": true,
-    "lat": 26.5707754,
-    "lon": 128.0255901,
-    "query": "沖縄, Japan",
+    "lat": 26.3343738,
+    "lon": 127.8056597,
+    "query": "沖縄市, Japan",
     "prefecture": "沖縄県"
   },
   "三郷": {
     "found": true,
-    "lat": 35.8450367,
-    "lon": 139.8857791,
-    "query": "三郷, Japan",
+    "lat": 35.8289993,
+    "lon": 139.8726811,
+    "query": "三郷市, Japan",
     "prefecture": "埼玉県"
   },
   "土浦": {
     "found": true,
-    "lat": 36.0779952,
-    "lon": 140.2060155,
-    "query": "土浦, Japan",
+    "lat": 36.0786297,
+    "lon": 140.2045934,
+    "query": "土浦市, Japan",
     "prefecture": "茨城県"
   },
   "藤枝": {
     "found": true,
-    "lat": 34.8492732,
-    "lon": 138.2522644,
-    "query": "藤枝, Japan",
+    "lat": 34.8674167,
+    "lon": 138.2577222,
+    "query": "藤枝市, Japan",
     "prefecture": "静岡県"
   },
   "深谷": {
     "found": true,
-    "lat": 36.1915583,
-    "lon": 139.2810987,
-    "query": "深谷, Japan",
+    "lat": 36.1974016,
+    "lon": 139.2816997,
+    "query": "深谷市, Japan",
     "prefecture": "埼玉県"
   },
   "朝霞": {
     "found": true,
-    "lat": 35.7966582,
-    "lon": 139.6003513,
-    "query": "朝霞, Japan",
+    "lat": 35.7970861,
+    "lon": 139.593733,
+    "query": "朝霞市, Japan",
     "prefecture": "埼玉県"
   },
   "戸田": {
     "found": true,
-    "lat": 35.1327513,
-    "lon": 136.8077457,
-    "query": "戸田, Japan",
-    "prefecture": "愛知県"
+    "lat": 35.8175874,
+    "lon": 139.6778944,
+    "query": "戸田市, Japan",
+    "prefecture": "埼玉県"
   },
   "石巻": {
     "found": true,
-    "lat": 38.4352418,
-    "lon": 141.3038047,
-    "query": "石巻, Japan",
+    "lat": 38.4341281,
+    "lon": 141.3028087,
+    "query": "石巻市, Japan",
     "prefecture": "宮城県"
   },
   "古河": {
     "found": true,
-    "lat": 36.1945874,
-    "lon": 139.7095071,
-    "query": "古河, Japan",
+    "lat": 36.178025,
+    "lon": 139.7553638,
+    "query": "古河市, Japan",
     "prefecture": "茨城県"
   },
   "桑名": {
     "found": true,
-    "lat": 35.0671696,
-    "lon": 136.6837701,
-    "query": "桑名, Japan",
+    "lat": 35.0666099,
+    "lon": 136.6843004,
+    "query": "桑名市, Japan",
     "prefecture": "三重県"
   },
   "周南": {
     "found": true,
-    "lat": 34.0254158,
-    "lon": 131.8317031,
-    "query": "周南, Japan",
+    "lat": 34.0550595,
+    "lon": 131.8064092,
+    "query": "周南市, Japan",
     "prefecture": "山口県"
   },
   "箕面": {
     "found": true,
-    "lat": 34.8347808,
-    "lon": 135.468244,
-    "query": "箕面, Japan",
+    "lat": 34.8269554,
+    "lon": 135.4704617,
+    "query": "箕面市, Japan",
     "prefecture": "大阪府"
   },
   "焼津": {
     "found": true,
-    "lat": 34.8723182,
-    "lon": 138.3181727,
-    "query": "焼津, Japan",
+    "lat": 34.8672304,
+    "lon": 138.322843,
+    "query": "焼津市, Japan",
     "prefecture": "静岡県"
   },
   "海老名": {
     "found": true,
-    "lat": 35.4543232,
-    "lon": 139.3894064,
-    "query": "海老名, Japan",
+    "lat": 35.4464147,
+    "lon": 139.3906427,
+    "query": "海老名市, Japan",
     "prefecture": "神奈川県"
   },
   "木更津": {
     "found": true,
-    "lat": 35.3815925,
-    "lon": 139.9261867,
-    "query": "木更津, Japan",
+    "lat": 35.3810808,
+    "lon": 139.9247334,
+    "query": "木更津市, Japan",
     "prefecture": "千葉県"
   },
   "稲沢": {
     "found": true,
-    "lat": 35.2524307,
-    "lon": 136.8214158,
-    "query": "稲沢, Japan",
+    "lat": 35.240484,
+    "lon": 136.758964,
+    "query": "稲沢市, Japan",
     "prefecture": "愛知県"
   },
   "諫早": {
     "found": true,
-    "lat": 32.8515855,
-    "lon": 130.0414622,
-    "query": "諫早, Japan",
+    "lat": 32.843426,
+    "lon": 130.0530537,
+    "query": "諫早市, Japan",
     "prefecture": "長崎県"
   },
   "青梅": {
     "found": true,
-    "lat": 35.7904504,
-    "lon": 139.2583321,
-    "query": "青梅, Japan",
+    "lat": 35.7880531,
+    "lon": 139.2753553,
+    "query": "青梅市, Japan",
     "prefecture": "東京都"
   },
   "成田": {
     "found": true,
-    "lat": 35.777909,
-    "lon": 140.313961,
-    "query": "成田, Japan",
+    "lat": 35.7767683,
+    "lon": 140.3183376,
+    "query": "成田市, Japan",
     "prefecture": "千葉県"
   },
   "座間": {
     "found": true,
-    "lat": 35.4807147,
-    "lon": 139.3999256,
-    "query": "座間, Japan",
+    "lat": 35.4886835,
+    "lon": 139.407691,
+    "query": "座間市, Japan",
     "prefecture": "神奈川県"
   },
   "尾道": {
     "found": true,
-    "lat": 34.4048548,
-    "lon": 133.1930953,
-    "query": "尾道, Japan",
+    "lat": 34.4088519,
+    "lon": 133.2051549,
+    "query": "尾道市, Japan",
     "prefecture": "広島県"
   },
   "我孫子": {
     "found": true,
-    "lat": 35.872742,
-    "lon": 140.0107711,
-    "query": "我孫子, Japan",
+    "lat": 35.863999,
+    "lon": 140.0280653,
+    "query": "我孫子市, Japan",
     "prefecture": "千葉県"
   },
   "国分寺": {
     "found": true,
-    "lat": 35.7002428,
-    "lon": 139.4803096,
-    "query": "国分寺, Japan",
+    "lat": 35.709674,
+    "lon": 139.454224,
+    "query": "国分寺市, Japan",
     "prefecture": "東京都"
   },
   "岩国": {
     "found": true,
-    "lat": 34.1717072,
-    "lon": 132.2255042,
-    "query": "岩国, Japan",
+    "lat": 34.1664995,
+    "lon": 132.2191163,
+    "query": "岩国市, Japan",
     "prefecture": "山口県"
   },
   "富士宮": {
     "found": true,
-    "lat": 35.2213204,
-    "lon": 138.614907,
-    "query": "富士宮, Japan",
+    "lat": 35.2221369,
+    "lon": 138.6214683,
+    "query": "富士宮市, Japan",
     "prefecture": "静岡県"
   },
   "瀬戸": {
     "found": true,
-    "lat": 34.7344138,
-    "lon": 134.0418841,
-    "query": "瀬戸, Japan",
-    "prefecture": "岡山県"
+    "lat": 35.240984,
+    "lon": 137.116187,
+    "query": "瀬戸市, Japan",
+    "prefecture": "愛知県"
   },
   "大崎": {
     "found": true,
-    "lat": 35.6193903,
-    "lon": 139.7284866,
-    "query": "大崎, Japan",
-    "prefecture": "東京都"
+    "lat": 38.5776571,
+    "lon": 140.9557224,
+    "query": "大崎市, Japan",
+    "prefecture": "宮城県"
   },
   "飯塚": {
     "found": true,
-    "lat": 33.6286797,
-    "lon": 130.6895754,
-    "query": "飯塚, Japan",
+    "lat": 33.646594,
+    "lon": 130.6911579,
+    "query": "飯塚市, Japan",
     "prefecture": "福岡県"
   },
   "小金井": {
     "found": true,
-    "lat": 36.3743446,
-    "lon": 139.8419693,
-    "query": "小金井, Japan",
-    "prefecture": "栃木県"
+    "lat": 35.7041083,
+    "lon": 139.5106759,
+    "query": "小金井市, Japan",
+    "prefecture": "東京都"
   },
   "うるま": {
     "found": true,
     "lat": 26.3791496,
     "lon": 127.8573107,
-    "query": "うるま, Japan",
+    "query": "うるま市, Japan",
     "prefecture": "沖縄県"
   },
   "霧島": {
     "found": true,
-    "lat": 24.7931954,
-    "lon": 141.3081295,
-    "query": "霧島, Japan",
-    "prefecture": null
+    "lat": 31.7410148,
+    "lon": 130.7632406,
+    "query": "霧島市, Japan",
+    "prefecture": "鹿児島県"
   },
   "八代": {
     "found": true,
-    "lat": 32.504005,
-    "lon": 130.6217417,
-    "query": "八代, Japan",
+    "lat": 32.5081425,
+    "lon": 130.6020211,
+    "query": "八代市, Japan",
     "prefecture": "熊本県"
   },
   "伊勢": {
     "found": true,
-    "lat": 35.837787,
-    "lon": 136.648485,
-    "query": "伊勢, Japan",
-    "prefecture": "福井県"
+    "lat": 34.4875944,
+    "lon": 136.7092334,
+    "query": "伊勢市, Japan",
+    "prefecture": "三重県"
   },
   "鶴岡": {
     "found": true,
-    "lat": 38.7400487,
-    "lon": 139.8359746,
-    "query": "鶴岡, Japan",
+    "lat": 38.7272187,
+    "lon": 139.8266292,
+    "query": "鶴岡市, Japan",
     "prefecture": "山形県"
   },
   "江別": {
     "found": true,
-    "lat": 43.1105452,
-    "lon": 141.5572271,
-    "query": "江別, Japan",
+    "lat": 43.1037358,
+    "lon": 141.535894,
+    "query": "江別市, Japan",
     "prefecture": "北海道"
   },
   "橿原": {
     "found": true,
-    "lat": 35.4695295,
-    "lon": 134.7757693,
-    "query": "橿原, Japan",
-    "prefecture": "兵庫県"
+    "lat": 34.5094067,
+    "lon": 135.792955,
+    "query": "橿原市, Japan",
+    "prefecture": "奈良県"
   },
   "門真": {
     "found": true,
-    "lat": 34.7391087,
-    "lon": 135.5740678,
-    "query": "門真, Japan",
+    "lat": 34.739496,
+    "lon": 135.5869107,
+    "query": "門真市, Japan",
     "prefecture": "大阪府"
   },
   "大東": {
     "found": true,
-    "lat": 35.0675424,
-    "lon": 133.9707509,
-    "query": "大東, Japan",
-    "prefecture": "岡山県"
+    "lat": 34.7120151,
+    "lon": 135.6235341,
+    "query": "大東市, Japan",
+    "prefecture": "大阪府"
   },
   "延岡": {
     "found": true,
-    "lat": 32.5898056,
-    "lon": 131.6722583,
-    "query": "延岡, Japan",
+    "lat": 32.5823063,
+    "lon": 131.6649034,
+    "query": "延岡市, Japan",
     "prefecture": "宮崎県"
   },
   "半田": {
     "found": true,
-    "lat": 34.8940196,
-    "lon": 136.9304529,
-    "query": "半田, Japan",
+    "lat": 34.8938136,
+    "lon": 136.9369523,
+    "query": "半田市, Japan",
     "prefecture": "愛知県"
   },
   "松原": {
     "found": true,
-    "lat": 35.6633686,
-    "lon": 139.6492965,
-    "query": "松原, Japan",
-    "prefecture": "東京都"
+    "lat": 34.5780936,
+    "lon": 135.5517555,
+    "query": "松原市, Japan",
+    "prefecture": "大阪府"
   },
   "会津若松": {
     "found": true,
-    "lat": 37.5085622,
-    "lon": 139.9301344,
-    "query": "会津若松, Japan",
+    "lat": 37.4947487,
+    "lon": 139.9297446,
+    "query": "会津若松市, Japan",
     "prefecture": "福島県"
   },
   "唐津": {
     "found": true,
-    "lat": 33.4462729,
-    "lon": 129.9677507,
-    "query": "唐津, Japan",
+    "lat": 33.4503405,
+    "lon": 129.9679345,
+    "query": "唐津市, Japan",
     "prefecture": "佐賀県"
   },
   "生駒": {
     "found": true,
-    "lat": 34.6932355,
-    "lon": 135.6979211,
-    "query": "生駒, Japan",
+    "lat": 34.6915267,
+    "lon": 135.6961681,
+    "query": "生駒市, Japan",
     "prefecture": "奈良県"
   },
   "鴻巣": {
     "found": true,
-    "lat": 36.0592587,
-    "lon": 139.5096876,
-    "query": "鴻巣, Japan",
+    "lat": 36.0657583,
+    "lon": 139.5221055,
+    "query": "鴻巣市, Japan",
     "prefecture": "埼玉県"
   },
   "佐野": {
     "found": true,
-    "lat": 36.316813,
-    "lon": 139.5790659,
-    "query": "佐野, Japan",
+    "lat": 36.3144119,
+    "lon": 139.578429,
+    "query": "佐野市, Japan",
     "prefecture": "栃木県"
   },
   "新居浜": {
     "found": true,
-    "lat": 33.9479803,
-    "lon": 133.2943345,
-    "query": "新居浜, Japan",
+    "lat": 33.9603497,
+    "lon": 133.2835899,
+    "query": "新居浜市, Japan",
     "prefecture": "愛媛県"
   },
   "浦添": {
     "found": true,
-    "lat": 33.6564936,
-    "lon": 130.6992576,
-    "query": "浦添, Japan",
-    "prefecture": "福岡県"
+    "lat": 26.2459242,
+    "lon": 127.7219769,
+    "query": "浦添市, Japan",
+    "prefecture": "沖縄県"
   },
   "北見": {
     "found": true,
-    "lat": 43.8049279,
-    "lon": 143.8972642,
-    "query": "北見, Japan",
+    "lat": 43.8029391,
+    "lon": 143.8946351,
+    "query": "北見市, Japan",
     "prefecture": "北海道"
   },
   "別府": {
     "found": true,
-    "lat": 33.2795661,
-    "lon": 131.5004873,
-    "query": "別府, Japan",
+    "lat": 33.2845752,
+    "lon": 131.4913063,
+    "query": "別府市, Japan",
     "prefecture": "大分県"
   },
   "那須塩原": {
     "found": true,
-    "lat": 36.9315325,
-    "lon": 140.0210685,
-    "query": "那須塩原, Japan",
+    "lat": 36.9621788,
+    "lon": 140.0467207,
+    "query": "那須塩原市, Japan",
     "prefecture": "栃木県"
   },
   "東久留米": {
     "found": true,
-    "lat": 35.7602506,
-    "lon": 139.5340853,
-    "query": "東久留米, Japan",
-    "prefecture": "埼玉県"
+    "lat": 35.752546,
+    "lon": 139.519089,
+    "query": "東久留米市, Japan",
+    "prefecture": "東京都"
   },
   "掛川": {
     "found": true,
-    "lat": 34.7693974,
-    "lon": 138.0146156,
-    "query": "掛川, Japan",
+    "lat": 34.7688351,
+    "lon": 137.9986433,
+    "query": "掛川市, Japan",
     "prefecture": "静岡県"
   },
   "廿日市": {
@@ -1562,282 +1562,282 @@
   },
   "昭島": {
     "found": true,
-    "lat": 35.7135703,
-    "lon": 139.3608938,
-    "query": "昭島, Japan",
+    "lat": 35.7058081,
+    "lon": 139.3536109,
+    "query": "昭島市, Japan",
     "prefecture": "東京都"
   },
   "防府": {
     "found": true,
-    "lat": 34.0533394,
-    "lon": 131.5689276,
-    "query": "防府, Japan",
+    "lat": 34.0517226,
+    "lon": 131.5629141,
+    "query": "防府市, Japan",
     "prefecture": "山口県"
   },
   "東海": {
     "found": true,
-    "lat": 36.465474,
-    "lon": 140.5657393,
-    "query": "東海, Japan",
-    "prefecture": "茨城県"
+    "lat": 35.0228927,
+    "lon": 136.9023574,
+    "query": "東海市, Japan",
+    "prefecture": "愛知県"
   },
   "長浜": {
     "found": true,
-    "lat": 35.3784578,
-    "lon": 136.2651919,
-    "query": "長浜, Japan",
+    "lat": 35.3808618,
+    "lon": 136.2785068,
+    "query": "長浜市, Japan",
     "prefecture": "滋賀県"
   },
   "彦根": {
     "found": true,
-    "lat": 35.2717012,
-    "lon": 136.2634484,
-    "query": "彦根, Japan",
+    "lat": 35.2744066,
+    "lon": 136.2596539,
+    "query": "彦根市, Japan",
     "prefecture": "滋賀県"
   },
   "ふじみ野": {
     "found": true,
-    "lat": 35.8608787,
-    "lon": 139.5231051,
-    "query": "ふじみ野, Japan",
+    "lat": 35.8794749,
+    "lon": 139.5195441,
+    "query": "ふじみ野市, Japan",
     "prefecture": "埼玉県"
   },
   "奥州": {
     "found": true,
     "lat": 39.144275,
     "lon": 141.1392382,
-    "query": "奥州, Japan",
+    "query": "奥州市, Japan",
     "prefecture": "岩手県"
   },
   "東近江": {
     "found": true,
     "lat": 35.112415,
     "lon": 136.2073154,
-    "query": "東近江, Japan",
+    "query": "東近江市, Japan",
     "prefecture": "滋賀県"
   },
   "一関": {
     "found": true,
-    "lat": 32.8283049,
-    "lon": 131.0609599,
-    "query": "一関, Japan",
-    "prefecture": "熊本県"
+    "lat": 38.9346961,
+    "lon": 141.126605,
+    "query": "一関市, Japan",
+    "prefecture": "岩手県"
   },
   "富士見": {
     "found": true,
-    "lat": 35.6981288,
-    "lon": 139.7452456,
-    "query": "富士見, Japan",
-    "prefecture": "東京都"
+    "lat": 35.8565545,
+    "lon": 139.5490731,
+    "query": "富士見市, Japan",
+    "prefecture": "埼玉県"
   },
   "加須": {
     "found": true,
-    "lat": 36.122974,
-    "lon": 139.595706,
-    "query": "加須, Japan",
+    "lat": 36.1308572,
+    "lon": 139.603225,
+    "query": "加須市, Japan",
     "prefecture": "埼玉県"
   },
   "小樽": {
     "found": true,
-    "lat": 43.1975603,
-    "lon": 140.9933209,
-    "query": "小樽, Japan",
+    "lat": 43.1906806,
+    "lon": 140.9946021,
+    "query": "小樽市, Japan",
     "prefecture": "北海道"
   },
   "大牟田": {
     "found": true,
-    "lat": 33.0299039,
-    "lon": 130.4433193,
-    "query": "大牟田, Japan",
+    "lat": 33.047013,
+    "lon": 130.464155,
+    "query": "大牟田市, Japan",
     "prefecture": "福岡県"
   },
   "春日": {
     "found": true,
-    "lat": 35.7084896,
-    "lon": 139.7527409,
-    "query": "春日, Japan",
-    "prefecture": "東京都"
+    "lat": 33.5326401,
+    "lon": 130.4699924,
+    "query": "春日市, Japan",
+    "prefecture": "福岡県"
   },
   "白山": {
     "found": true,
-    "lat": 35.7215191,
-    "lon": 139.7521258,
-    "query": "白山, Japan",
-    "prefecture": "東京都"
+    "lat": 36.5143504,
+    "lon": 136.5658067,
+    "query": "白山市, Japan",
+    "prefecture": "石川県"
   },
   "鎌ケ谷": {
     "found": true,
-    "lat": 35.7494725,
-    "lon": 140.0071968,
-    "query": "鎌ケ谷, Japan",
+    "lat": 35.7766455,
+    "lon": 140.0007147,
+    "query": "鎌ケ谷市, Japan",
     "prefecture": "千葉県"
   },
   "丸亀": {
     "found": true,
-    "lat": 34.292045,
-    "lon": 133.792955,
-    "query": "丸亀, Japan",
+    "lat": 34.2888128,
+    "lon": 133.7982421,
+    "query": "丸亀市, Japan",
     "prefecture": "香川県"
   },
   "三田": {
     "found": true,
-    "lat": 35.6467874,
-    "lon": 139.7414307,
-    "query": "三田, Japan",
-    "prefecture": "東京都"
+    "lat": 34.8899451,
+    "lon": 135.2252469,
+    "query": "三田市, Japan",
+    "prefecture": "兵庫県"
   },
   "羽曳野": {
     "found": true,
-    "lat": 34.9741067,
-    "lon": 135.7516775,
-    "query": "羽曳野, Japan",
-    "prefecture": "京都府"
+    "lat": 34.5581531,
+    "lon": 135.6061619,
+    "query": "羽曳野市, Japan",
+    "prefecture": "大阪府"
   },
   "富田林": {
     "found": true,
-    "lat": 34.5045286,
-    "lon": 135.6010146,
-    "query": "富田林, Japan",
+    "lat": 34.4998098,
+    "lon": 135.5972946,
+    "query": "富田林市, Japan",
     "prefecture": "大阪府"
   },
   "三島": {
     "found": true,
-    "lat": 35.1264176,
-    "lon": 138.9114761,
-    "query": "三島, Japan",
+    "lat": 35.1185376,
+    "lon": 138.9184438,
+    "query": "三島市, Japan",
     "prefecture": "静岡県"
   },
   "多治見": {
     "found": true,
-    "lat": 35.3351999,
-    "lon": 137.1208133,
-    "query": "多治見, Japan",
+    "lat": 35.3329961,
+    "lon": 137.1319459,
+    "query": "多治見市, Japan",
     "prefecture": "岐阜県"
   },
   "桐生": {
     "found": true,
-    "lat": 36.4113225,
-    "lon": 139.3326744,
-    "query": "桐生, Japan",
+    "lat": 36.4057374,
+    "lon": 139.3308366,
+    "query": "桐生市, Japan",
     "prefecture": "群馬県"
   },
   "小松": {
     "found": true,
-    "lat": 36.4018391,
-    "lon": 136.4528145,
-    "query": "小松, Japan",
+    "lat": 36.4032931,
+    "lon": 136.4495465,
+    "query": "小松市, Japan",
     "prefecture": "石川県"
   },
   "池田": {
     "found": true,
-    "lat": 42.9214578,
-    "lon": 143.4532084,
-    "query": "池田, Japan",
-    "prefecture": "北海道"
+    "lat": 34.8217095,
+    "lon": 135.4284236,
+    "query": "池田市, Japan",
+    "prefecture": "大阪府"
   },
   "西条": {
     "found": true,
-    "lat": 34.4313263,
-    "lon": 132.7436714,
-    "query": "西条, Japan",
-    "prefecture": "広島県"
+    "lat": 33.9194466,
+    "lon": 133.1813268,
+    "query": "西条市, Japan",
+    "prefecture": "愛媛県"
   },
   "取手": {
     "found": true,
-    "lat": 35.8975067,
-    "lon": 140.0638828,
-    "query": "取手, Japan",
+    "lat": 35.9112034,
+    "lon": 140.0500352,
+    "query": "取手市, Japan",
     "prefecture": "茨城県"
   },
   "筑紫野": {
     "found": true,
     "lat": 33.4874888,
     "lon": 130.5258812,
-    "query": "筑紫野, Japan",
+    "query": "筑紫野市, Japan",
     "prefecture": "福岡県"
   },
   "印西": {
     "found": true,
     "lat": 35.8322582,
     "lon": 140.1452981,
-    "query": "印西, Japan",
+    "query": "印西市, Japan",
     "prefecture": "千葉県"
   },
   "大野城": {
     "found": true,
-    "lat": 33.5255552,
-    "lon": 130.479527,
-    "query": "大野城, Japan",
+    "lat": 33.536239,
+    "lon": 130.478658,
+    "query": "大野城市, Japan",
     "prefecture": "福岡県"
   },
   "伊勢原": {
     "found": true,
-    "lat": 35.3959932,
-    "lon": 139.3135001,
-    "query": "伊勢原, Japan",
+    "lat": 35.4030614,
+    "lon": 139.3150172,
+    "query": "伊勢原市, Japan",
     "prefecture": "神奈川県"
   },
   "河内長野": {
     "found": true,
     "lat": 34.4575979,
     "lon": 135.5643131,
-    "query": "河内長野, Japan",
+    "query": "河内長野市, Japan",
     "prefecture": "大阪府"
   },
   "鹿屋": {
     "found": true,
-    "lat": 34.7279413,
-    "lon": 135.3038324,
-    "query": "鹿屋, Japan",
-    "prefecture": "兵庫県"
+    "lat": 31.3780472,
+    "lon": 130.8525167,
+    "query": "鹿屋市, Japan",
+    "prefecture": "鹿児島県"
   },
   "筑西": {
     "found": true,
-    "lat": 34.7073333,
-    "lon": 135.4951888,
-    "query": "筑西, Japan",
-    "prefecture": "大阪府"
+    "lat": 36.3051944,
+    "lon": 139.9790903,
+    "query": "筑西市, Japan",
+    "prefecture": "茨城県"
   },
   "酒田": {
     "found": true,
-    "lat": 38.9219999,
-    "lon": 139.8460919,
-    "query": "酒田, Japan",
+    "lat": 38.9147229,
+    "lon": 139.8364101,
+    "query": "酒田市, Japan",
     "prefecture": "山形県"
   },
   "坂戸": {
     "found": true,
-    "lat": 35.9570602,
-    "lon": 139.3937702,
-    "query": "坂戸, Japan",
+    "lat": 35.9572312,
+    "lon": 139.4029048,
+    "query": "坂戸市, Japan",
     "prefecture": "埼玉県"
   },
   "宜野湾": {
     "found": true,
-    "lat": 26.270245,
-    "lon": 127.754067,
-    "query": "宜野湾, Japan",
+    "lat": 26.2814968,
+    "lon": 127.7784916,
+    "query": "宜野湾市, Japan",
     "prefecture": "沖縄県"
   },
   "泉佐野": {
     "found": true,
-    "lat": 34.4112447,
-    "lon": 135.3169405,
-    "query": "泉佐野, Japan",
+    "lat": 34.394629,
+    "lon": 135.322725,
+    "query": "泉佐野市, Japan",
     "prefecture": "大阪府"
   },
   "可児": {
     "found": true,
-    "lat": 35.4225491,
-    "lon": 137.0553993,
-    "query": "可児, Japan",
+    "lat": 35.4261093,
+    "lon": 137.0613166,
+    "query": "可児市, Japan",
     "prefecture": "岐阜県"
   },
   "甲府": {
     "found": true,
-    "lat": 35.6673798,
-    "lon": 138.5690672,
-    "query": "甲府, Japan",
+    "lat": 35.6652481,
+    "lon": 138.5710441,
+    "query": "甲府市, Japan",
     "prefecture": "山梨県"
   }
 }

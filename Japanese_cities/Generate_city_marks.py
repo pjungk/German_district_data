@@ -126,13 +126,13 @@ def geocode_with_fallbacks(key_name:  str, reading: str, geolocator: Nominatim, 
         return cache[key_name]
 
     queries = []
+    if key_name and not key_name.endswith('市'):
+        queries.append(f"{key_name}市, Japan")
     if key_name: 
         queries.append(f"{key_name}, Japan")
     if reading:
         queries.append(f"{reading}, Japan")
     # common fallbacks
-    if key_name and not key_name.endswith('市'):
-        queries.append(f"{key_name}市, Japan")
     # Tokyo wards often need '区'
     if key_name and not key_name.endswith('区'):
         queries.append(f"{key_name}区, Tokyo, Japan")

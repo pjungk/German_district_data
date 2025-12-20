@@ -285,7 +285,7 @@ for idx, row in cities_df.iterrows():
 
         ax.set_axis_off()
         plt.tight_layout()
-        plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='none')
+        plt.savefig(output_path, dpi=150, bbox_inches='tight', facecolor='none')
         plt.close(fig)
         print(f"✅ {idx+1}/{len(cities_df)}: {city_name} - Map saved to {output_path}")
     else:
